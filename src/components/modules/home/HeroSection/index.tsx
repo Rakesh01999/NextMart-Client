@@ -25,7 +25,7 @@ const HeroSection = () => {
             </Button>
             <Button
               size="lg"
-              className="rounded-full bg-white text-black hover:bg-gray-100"
+              className="rounded-full bg-white text-black hover:bg-yellow-500"
             >
               All Products
             </Button>
