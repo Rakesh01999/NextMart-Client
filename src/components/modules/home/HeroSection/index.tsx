@@ -20,7 +20,7 @@ const HeroSection = () => {
               Save big this Black Friday with unbeatable deals on tech, home
               essentials, fashion, and more! Limited stock.
             </p>
-            <Button size="lg" className="mr-5 rounded-full hover:bg-orange-500">
+            <Button size="lg" className="mr-5 rounded-full hover:bg-orange-600">
               Buy Now
             </Button>
             <Button
