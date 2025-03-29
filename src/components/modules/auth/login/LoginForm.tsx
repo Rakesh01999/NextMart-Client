@@ -75,7 +75,7 @@ export default function LoginForm() {
         <div>
           <h1 className="text-xl font-semibold">Login</h1>
           <p className="font-extralight text-sm text-gray-600">Welcome back!</p>
-          <p className="font-extralight text-sm text-gray-600">Please Login here</p>
+          <p className="font-extralight text-sm text-primary">Please Login here</p>
         </div>
       </div>
       <Form {...form}>
